@@ -1,0 +1,13 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Node / Python
+node_modules/
+__pycache__/
+*.pyc
+.env
